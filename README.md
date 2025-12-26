@@ -32,11 +32,7 @@
 
 ## 📊 GitHub Stats  
 
-![Srinu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SrinuTirumanisetti&show_icons=true&theme=dark&hide_border=true)
-
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=SrinuTirumanisetti&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SrinuTirumanisetti&layout=compact&theme=dark&hide_border=true)
 
 ---
 

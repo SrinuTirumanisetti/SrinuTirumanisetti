@@ -40,4 +40,3 @@
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=SrinuTirumanisetti&label=Profile%20Views&color=0&pretty=true)
